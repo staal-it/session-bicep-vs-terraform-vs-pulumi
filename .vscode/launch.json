@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/pulumi/bin/Debug/net6.0/iac-pulumi-demo.dll",
+            "program": "${workspaceFolder}/pulumi/bin/Debug/net8.0/iac-pulumi-demo.dll",
             "args": [],
             "cwd": "${workspaceFolder}/pulumi",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
@@ -26,7 +26,7 @@
             "request": "launch",
             "preLaunchTask": "buildPulumiDebug3",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/3. pulumi/bin/Debug/net6.0/demo.dll",
+            "program": "${workspaceFolder}/3. pulumi/bin/Debug/net8.0/demo.dll",
             "args": [],
             "cwd": "${workspaceFolder}/3. pulumi",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
@@ -42,7 +42,7 @@
             "request": "launch",
             "preLaunchTask": "buildPulumiDebug",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/4. pulumi-extra/pulumi-debug/bin/Debug/net6.0/debug.dll",
+            "program": "${workspaceFolder}/4. pulumi-extra/pulumi-debug/bin/Debug/net9.0/debug.dll",
             "args": [],
             "cwd": "${workspaceFolder}/4. pulumi-extra/pulumi-debug",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
@@ -58,7 +58,7 @@
             "request": "launch",
             "preLaunchTask": "buildPulumiAutomation",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/4. pulumi-extra/automation-api/bin/Debug/net6.0/automation-api.dll",
+            "program": "${workspaceFolder}/4. pulumi-extra/automation-api/bin/Debug/net8.0/automation-api.dll",
             "args": [],
             "cwd": "${workspaceFolder}/4. pulumi-extra/automation-api",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console

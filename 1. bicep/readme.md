@@ -1,0 +1,1 @@
+az deployment group create -g bicep-demo -f demo.bicep --what-if
